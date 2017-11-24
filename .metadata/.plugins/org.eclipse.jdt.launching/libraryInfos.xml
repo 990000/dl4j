@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111" version="1.8.0_111">
+<bootpath>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\resources.jar"/>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\rt.jar"/>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\sunrsasign.jar"/>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\jsse.jar"/>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\jce.jar"/>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\charsets.jar"/>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\jfr.jar"/>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre" version="1.8.0_111">
+<bootpath>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\resources.jar"/>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\rt.jar"/>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\sunrsasign.jar"/>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\jsse.jar"/>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\jce.jar"/>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\charsets.jar"/>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\jfr.jar"/>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\software\spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64\jdk1.8.0_111\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

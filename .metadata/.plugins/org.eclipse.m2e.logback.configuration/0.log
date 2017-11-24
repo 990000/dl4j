@@ -1,0 +1,53 @@
+2017-11-24 16:41:08,505 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.deeplearning4j:datavec-examples:0.9.1 @ F:\dev\git\dl4j\dl4j\datavec-examples\pom.xml.
+2017-11-24 16:41:08,524 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.deeplearning4j:datavec-examples:0.9.1 @ F:\dev\git\dl4j\dl4j\datavec-examples\pom.xml.
+2017-11-24 16:41:13,927 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:13,959 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-24 16:41:13,974 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:13,975 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\dev\git\dl4j\dl4j\datavec-examples\src\test\resources
+2017-11-24 16:41:15,374 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.deeplearning4j:datavec-examples:0.9.1 @ F:\dev\git\dl4j\dl4j\datavec-examples\pom.xml.
+2017-11-24 16:41:16,309 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.deeplearning4j:dl4j-cuda-specific-examples:0.9.1 @ F:\dev\git\dl4j\dl4j\dl4j-cuda-specific-examples\pom.xml.
+2017-11-24 16:41:17,080 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.deeplearning4j:dl4j-examples:0.9.1 @ F:\dev\git\dl4j\dl4j\dl4j-examples\pom.xml.
+2017-11-24 16:41:17,254 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.deeplearning4j:dl4j-spark-examples:0.9.1 @ F:\dev\git\dl4j\dl4j\dl4j-spark-examples\pom.xml.
+2017-11-24 16:41:18,454 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.deeplearning4j.examples:lstm-hdfs:0.9.1 @ F:\dev\git\dl4j\dl4j\lstm-hdfs\pom.xml.
+2017-11-24 16:41:20,882 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.deeplearning4j:nd4j-examples:0.9.1 @ F:\dev\git\dl4j\dl4j\nd4j-examples\pom.xml.
+2017-11-24 16:41:20,957 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.deeplearning4j:rl4j-examples:0.9.1 @ F:\dev\git\dl4j\dl4j\rl4j-examples\pom.xml.
+2017-11-24 16:41:38,812 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:38,833 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-24 16:41:38,846 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:38,846 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\dev\git\dl4j\dl4j\datavec-examples\src\test\resources
+2017-11-24 16:41:40,595 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:40,595 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-24 16:41:40,601 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:40,601 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\dev\git\dl4j\dl4j\datavec-examples\src\test\resources
+2017-11-24 16:41:41,292 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:41,292 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-11-24 16:41:41,298 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:41,299 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\dev\git\dl4j\dl4j\dl4j-cuda-specific-examples\src\test\resources
+2017-11-24 16:41:44,254 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:44,256 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-24 16:41:44,264 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:44,266 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\dev\git\dl4j\dl4j\datavec-examples\src\test\resources
+2017-11-24 16:41:44,280 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:44,281 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-11-24 16:41:44,283 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:44,283 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\dev\git\dl4j\dl4j\dl4j-cuda-specific-examples\src\test\resources
+2017-11-24 16:41:48,890 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:48,892 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 198 resources
+2017-11-24 16:41:50,566 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:50,566 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\dev\git\dl4j\dl4j\dl4j-examples\src\test\resources
+2017-11-24 16:41:55,957 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:55,957 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\dev\git\dl4j\dl4j\lstm-hdfs\src\main\resources
+2017-11-24 16:41:55,990 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:55,990 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\dev\git\dl4j\dl4j\lstm-hdfs\src\test\resources
+2017-11-24 16:41:56,323 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:56,323 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-11-24 16:41:56,330 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:56,330 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\dev\git\dl4j\dl4j\nd4j-examples\src\test\resources
+2017-11-24 16:41:57,246 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:57,246 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-24 16:41:57,249 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:57,249 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\dev\git\dl4j\dl4j\rl4j-examples\src\test\resources
+2017-11-24 16:41:59,510 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:59,510 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\dev\git\dl4j\dl4j\lstm-hdfs\src\main\resources
+2017-11-24 16:41:59,511 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-24 16:41:59,513 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\dev\git\dl4j\dl4j\lstm-hdfs\src\test\resources
